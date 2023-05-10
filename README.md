@@ -134,6 +134,11 @@ To run tests, run the following command:
 - Twitter: [@CarlosMbugua](https://twitter.com/CarlosMbugua)
 - LinkedIn: [Robert Mbugua](https://www.linkedin.com/in/robert-mbugua-a8745093/)
 
+👤 **Cosmas wasswa**
+
+- GitHub: [@githubhandle](https://github.com/cosywasswa)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/cosmas-wasswa-931a2761/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
