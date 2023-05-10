@@ -304,23 +304,25 @@
         </div>
       </section>
 
-      <section>
-        <p>
+      <section class="row">
+        <p class="col-md-6 p-5 text-dark h1">
           I'm always interested in hearing about new projects, so if you'd like
           to chat please get in touch.
         </p>
-        <form action="https://formspree.io/f/xgebdydo" method="post">
+        <form class="col-md-6 p-5 d-flex flex-column" action="https://formspree.io/f/xgebdydo" method="post">
           <input
             name="FullName"
             type="text"
             placeholder="Full name"
             required
             maxlength="30"
+            class="mb-4"
           />
           <input
             name="Email"
             type="email"
             placeholder="Email address"
+            class="mb-4"
             required
           />
           <textarea
@@ -329,10 +331,11 @@
             cols="50"
             placeholder="Write me something..."
             maxlength="500"
+            class="mb-4 form-control"
             required
           ></textarea>
           <div>
-            <button type="submit">Get in touch</button>
+            <button class="btn btn-warning" type="submit">Get in touch</button>
           </div>
         </form>
       </section>
